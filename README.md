@@ -1,3 +1,8 @@
+# Nota
+Antes de iniciar a aplicação execute:
+### `npm audit fix`
+Para poder baixar as dependências
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
